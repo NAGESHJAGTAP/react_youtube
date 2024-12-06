@@ -2,6 +2,26 @@ import React from 'react';
 import './Serch.css';
 
 function Serch(){
+
+const suggestion=[
+    {id:1,title:'All'},
+    {id:1,title:'Coock Studio'},
+    {id:1,title:'UX'},
+    {id:1,title:'Case study'},
+    {id:1,title:'music'},
+    {id:1,title:'Bnagla lofi'},
+    {id:1,title:'Tour'},
+    {id:1,title:'Saintmartian'},
+    {id:1,title:'Tech'},
+    {id:1,title:'iPhone 13'},
+    {id:1,title:'User interface Design'},
+    
+]
+
+
+
+
+
     return(
         <>
        <div className='serch'>
@@ -25,21 +45,14 @@ function Serch(){
             </div>
         </div>
         
+        
        </div>
        <hr className='horizontzl' />
          <div>
             <div className='canal'>
-                <p className='all'>All</p>
-                <p className='cook'>Cook Studio</p>
-                <p className='uk'>UK</p>
-                <p className='case'>Case Study</p>
-                <p className='case'>Music</p>
-                <p className='case'>Bnagla lofi</p>
-                <p className='tour'>tour</p>
-                <p className='case'>Saintmartin</p>
-                <p className='tech'>Tech</p>
-                <p className='case'>iPhone 13</p>
-                <p className='user'>User interface Design</p>
+                {suggestion.map((i)=>(
+<p className='all'>{i.title}</p>
+                ))}
             </div>
          </div>
          <hr />

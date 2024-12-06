@@ -54,68 +54,11 @@ height: 42px;
     
 }
 .all{
-    border: 2px solid white;
-    background-color: white;
-    color: black;
-    height: 25px;
-    width: 50px;
-    border-radius: 10px;
-}
-.cook{
-    border: 2px solid white;
-    background-color: #383838;
-    height: 25px;
-    width: 100px;
-    border-radius: 10px;
-}
-.uk{
-    border: 2px solid white;
-    background-color: #383838;
-    height: 25px;
-    width: 50px;
-    border-radius: 10px;
-}
-.case{
-    border: 2px solid white;
-    background-color: #383838;
-    height: 25px;
-    width: 100px;
-    border-radius: 10px;
-}
-.music{
-    border: 2px solid white;
-    background-color: #383838;
-    height: 25px;
-    width: 100px;
-    border-radius: 10px;
-}
-.case{
-    border: 2px solid white;
-    background-color: #383838;
-    height: 25px;
-    width: 100px;
-    border-radius: 10px;
-}
-.tech{
-    border: 2px solid white;
-    background-color: #383838;
-    height: 25px;
-    width: 50px;
-    border-radius: 10px;
-}
-.tour{
-    border: 2px solid white;
-    background-color: #383838;
-    height: 25px;
-    width: 50px;
-    border-radius: 10px;
-}
-.user{
-    border: 2px solid white;
-    background-color: #383838;
-    height: 25px;
-    width: 150px;
-    border-radius: 10px;
+    border: 2px solid gray;
+    height: auto;
+    width: auto;
+    border-radius: 15px ;
+    padding: 8px;
 }
 
 
