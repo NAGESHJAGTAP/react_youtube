@@ -1,0 +1,55 @@
+
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    height: 87px;
+    
+  
+}
+.main2{
+    margin-top: -17px;
+}
+.D{
+    margin-top: 28px;
+}
+
+.site{
+    height: 17px;
+    margin-top: 20px;
+    
+    
+   
+}
+
+#logo{
+    margin-left: 14px;
+    
+}
+.home{
+    margin-left: 48px;
+    margin-top: -24px;
+    font-size: 16px;
+    color: white;
+}
+.E{
+    margin-right: 481px;
+    color: white;
+} 
+    
+    
+
+.mark{
+    margin-top: 2px;
+    margin-left: 550px;
+
+}
+.sitebar{
+    width: 200px;
+    background-size: 207px;
+    background-color: #212121;
+    
+}
+.subscr{
+    color: WHITE;
+}

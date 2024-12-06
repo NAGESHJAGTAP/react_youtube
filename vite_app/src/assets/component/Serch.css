@@ -1,0 +1,121 @@
+:root{
+    background-color: black;
+}
+.serch{
+ color: white;
+ font-size: 20px;
+ margin-left: 450px;
+ margin-top: -90px;
+ border: 2px solid gray;
+width: 500px;
+height: 42px;
+
+}
+.serchlogo{
+    margin-left: 450px;
+    margin-top: -40px
+    
+}
+.serchname{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.mic{
+   margin-left: 70px; 
+   margin-top: -30px;
+
+}
+.create{
+    margin-left: 400px;
+    margin-top: -30px;
+}
+.mare{
+    margin-left: 440px;
+    margin-top: -27px;
+}
+.bell{
+    margin-left: 480px;
+    margin-top: -30px;
+}
+.accound{
+    margin-left: 520px;
+    margin-top: -30px;
+}
+.horizontal{
+    color: gray;
+}
+.canal{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    color: white;
+    margin-left: 200px;
+    align-items: center;
+    
+}
+.all{
+    border: 2px solid white;
+    background-color: white;
+    color: black;
+    height: 25px;
+    width: 50px;
+    border-radius: 10px;
+}
+.cook{
+    border: 2px solid white;
+    background-color: #383838;
+    height: 25px;
+    width: 100px;
+    border-radius: 10px;
+}
+.uk{
+    border: 2px solid white;
+    background-color: #383838;
+    height: 25px;
+    width: 50px;
+    border-radius: 10px;
+}
+.case{
+    border: 2px solid white;
+    background-color: #383838;
+    height: 25px;
+    width: 100px;
+    border-radius: 10px;
+}
+.music{
+    border: 2px solid white;
+    background-color: #383838;
+    height: 25px;
+    width: 100px;
+    border-radius: 10px;
+}
+.case{
+    border: 2px solid white;
+    background-color: #383838;
+    height: 25px;
+    width: 100px;
+    border-radius: 10px;
+}
+.tech{
+    border: 2px solid white;
+    background-color: #383838;
+    height: 25px;
+    width: 50px;
+    border-radius: 10px;
+}
+.tour{
+    border: 2px solid white;
+    background-color: #383838;
+    height: 25px;
+    width: 50px;
+    border-radius: 10px;
+}
+.user{
+    border: 2px solid white;
+    background-color: #383838;
+    height: 25px;
+    width: 150px;
+    border-radius: 10px;
+}
+
+
