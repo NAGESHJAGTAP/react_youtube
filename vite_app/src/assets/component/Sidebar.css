@@ -4,8 +4,7 @@
     flex-direction: column;
     justify-content: start;
     height: 87px;
-    
-  
+
 }
 .main2{
     margin-top: -17px;
@@ -17,9 +16,16 @@
 .site{
     height: 17px;
     margin-top: 20px;
-    
-    
-   
+    border-radius: 8px;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    cursor: pointer;
+
+}
+.site:hover {
+    background-color: #383838; 
+    transform: scale(1.02); 
+    height: 40px;
+
 }
 
 #logo{
@@ -49,7 +55,11 @@
     background-size: 207px;
     background-color: #212121;
     
+    
 }
 .subscr{
     color: WHITE;
 }
+
+
+
