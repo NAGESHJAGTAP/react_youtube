@@ -4,7 +4,7 @@
     flex-direction: column;
     justify-content: start;
     height: 87px;
-
+    
 }
 .main2{
     margin-top: -17px;
@@ -54,7 +54,7 @@
     width: 200px;
     background-size: 207px;
     background-color: #212121;
-    
+    position: fixed;
     
 }
 .subscr{
