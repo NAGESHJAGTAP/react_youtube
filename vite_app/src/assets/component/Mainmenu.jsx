@@ -171,7 +171,7 @@ import './Mainmenu.css';
 import './Serch.css';
 
 function Mainmenu() {
-  const API_KEY = 'AIzaSyDaUG4c5bL5ccwWaGHJV_ULBlqFxwUWBmw'; // Replace with your API key
+  const API_KEY = 'AIzaSyDaUG4c5bL5ccwWaGHJV_ULBlqFxwUWBmw'; 
   const [main, setMain] = useState([]);
   const [searchQuery, setSearchQuery] = useState('');
   const [suggestions] = useState([
